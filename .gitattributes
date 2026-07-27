@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+# frontend
+node_modules/
+dist/
+
+# backend
+target/
+.idea/
+
+# python
+__pycache__/
+venv/
+
+# env
+.env
